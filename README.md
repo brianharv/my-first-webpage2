@@ -22,7 +22,7 @@ _No known bugs at this time._
 
 ## Support and contact details
 
-_For questions, ideas or concerns reach out to Brian Harvey at brian.harv3y@gmail.com or Jillian Gibson at JillianLGibson@gmail.com_
+_For questions, ideas or concerns reach out to [Brian Harvey](brian.harv3y@gmail.com) or [Jillian Gibson](JillianLGibson@gmail.com)._
 
 
 ## Technologies Used
